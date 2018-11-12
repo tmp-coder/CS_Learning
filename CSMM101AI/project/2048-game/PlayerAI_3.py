@@ -1,4 +1,4 @@
-from random import randint
+from random import randint, shuffle
 
 from BaseAI_3 import BaseAI
 from Displayer_3 import Displayer
@@ -10,6 +10,7 @@ import math
 tileVal = [2, 4]  # tile value
 grid_size = 4
 
+prob = 0.9
 displayer = Displayer()  # debug
 
 
@@ -22,7 +23,7 @@ class PlayerAI(BaseAI):
 
 class AlphaBetaSolver():
 
-    def __init__(self, estimateFun, max_turn=256, maxTime=0.1):
+    def __init__(self, estimateFun, max_turn=16, maxTime=0.18):
         # self.upper_utility = upper_utility  # estimate max tile value
         # self.prev_time = time()
         # self.maxTime = search_time
@@ -35,7 +36,7 @@ class AlphaBetaSolver():
         m = self.maximize(grid, -math.inf, math.inf)[0]
 
         if m is None:
-            return grid.getAvailableMoves()[0]
+            return shuffle(grid.getAvailableMoves())[0]
         return m
 
     def terminal_test(self, actions, dep):
@@ -48,25 +49,31 @@ class AlphaBetaSolver():
         if self.terminal_test(cells, dep):
             return self.estimateFun(grid)
 
-        min_utility = math.inf
+        utility = 0
 
         for cell in cells:
             child = grid.clone()  # grid is not change
 
             # for val in tileVal:
             child.setCellValue(cell, tileVal[0])
-            utility = self.maximize(child, alpha, beta, dep + 1)[1]
+            u1 = self.maximize(child, alpha, beta, dep + 1)[1]
+
+            child.setCellValue(cell, tileVal[1])
+            u2 = self.maximize(child, alpha, beta, dep + 1)[1]
+
+            utility += prob * u1 + (1 - prob) * u2
+
             # print("maximize utility = ", utility)
-            if utility < min_utility:
-                min_utility = utility
+            # if utility < min_utility:
+            #   min_utility = utility
 
-            if min_utility <= alpha:  # pruned
-                return min_utility
+            # if min_utility <= alpha:  # pruned
+            #   return min_utility
 
-            if min_utility < beta:
-                beta = min_utility
+            # if min_utility < beta:
+            #   beta = min_utility
 
-        return min_utility
+        return utility / len(cells)
 
     def maximize(self, grid, alpha, beta, dep=0):
         # self.dep +=1
@@ -77,6 +84,7 @@ class AlphaBetaSolver():
 
         max_utility = -1
         mov = None
+        shuffle(moves)
         for m in moves:
 
             child = grid.clone()
@@ -104,11 +112,18 @@ class AlphaBetaSolver():
 
 max_power = 20
 
-weight = [1024] + [4 ** i for i in range(max_power)]
+weight = [128] + [2.5 ** i for i in range(max_power)]
+
+weight_mat = [[32, 16, 8, 4],
+              [16, 8, 4, 2],
+              [8, 4, 2, 0],
+              [4, 2, 0, 0],
+              ]
+
 
 # estimate function
 def heuristics_fun(grid):
-    return estimate_score(grid) - 4 * penalty(grid)
+    return feature2(grid) - penalty(grid) + estimate_score(grid)
 
 
 def estimate_score(grid, weight=weight, max_power=max_power):
@@ -130,6 +145,14 @@ def estimate_score(grid, weight=weight, max_power=max_power):
     return ret
 
 
+def feature2(grid):
+    ret = 0
+    for i in range(grid_size):
+        for j in range(grid_size):
+            ret += weight_mat[i][j] * grid.getCellValue((i, j))
+    return ret
+
+
 def penalty(grid):
     ret = 0
     for i in range(grid_size):
@@ -144,7 +167,10 @@ def penalty(grid):
 
                 if grid.crossBound(pos):
                     continue
+                neibor_val = grid.getCellValue(pos)
 
-                ret += abs(val - grid.getCellValue(pos))
+                if neibor_val == val:
+                    ret -= weight[int(math.log2(val)) + 1]
+                ret += abs(val - neibor_val)
 
     return ret
