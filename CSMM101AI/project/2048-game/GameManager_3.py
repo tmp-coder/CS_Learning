@@ -1,9 +1,10 @@
-from Grid_3       import Grid
+from Grid_3 import Grid
 from ComputerAI_3 import ComputerAI
-from PlayerAI_3   import PlayerAI
-from Displayer_3  import Displayer
-from random       import randint
+from PlayerAI_3 import PlayerAI
+from Displayer_3 import Displayer
+from random import randint
 import time
+import math
 
 defaultInitialTiles = 2
 defaultProbability = 0.9
@@ -21,16 +22,17 @@ actionDic = {
 timeLimit = 0.2
 allowance = 0.05
 
+
 class GameManager:
-    def __init__(self, size = 4):
+    def __init__(self, size=4):
         self.grid = Grid(size)
         self.possibleNewTiles = [2, 4]
         self.probability = defaultProbability
-        self.initTiles  = defaultInitialTiles
+        self.initTiles = defaultInitialTiles
         self.computerAI = None
-        self.playerAI   = None
-        self.displayer  = None
-        self.over       = False
+        self.playerAI = None
+        self.displayer = None
+        self.over = False
 
     def setComputerAI(self, computerAI):
         self.computerAI = computerAI
@@ -105,12 +107,13 @@ class GameManager:
 
             turn = 1 - turn
         print(maxTile)
+        return maxTile
 
     def isGameOver(self):
         return not self.grid.canMove()
 
     def getNewTileValue(self):
-        if randint(0,99) < 100 * self.probability:
+        if randint(0, 99) < 100 * self.probability:
             return self.possibleNewTiles[0]
         else:
             return self.possibleNewTiles[1];
@@ -121,17 +124,27 @@ class GameManager:
         cell = cells[randint(0, len(cells) - 1)]
         self.grid.setCellValue(cell, tileValue)
 
+
 def main():
     gameManager = GameManager()
-    playerAI  	= PlayerAI()
-    computerAI  = ComputerAI()
-    displayer 	= Displayer()
+    playerAI = PlayerAI()
+    computerAI = ComputerAI()
+    displayer = Displayer()
 
     gameManager.setDisplayer(displayer)
     gameManager.setPlayerAI(playerAI)
     gameManager.setComputerAI(computerAI)
 
-    gameManager.start()
+    return gameManager.start()
+
 
 if __name__ == '__main__':
-    main()
+
+    ans = [0 for i in range(13)]
+    for _ in range(10):
+        val = main()
+        idx = int(math.log2(val) + 0.5)
+        ans[idx] += 1
+
+    for i in range(1, 13):
+        print("maxTile = " + str(1 << i) + " " + str(ans[i] * 10) + "%", end='\n')

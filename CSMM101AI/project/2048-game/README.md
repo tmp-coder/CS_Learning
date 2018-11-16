@@ -6,8 +6,19 @@ link : [Week 4 Project: Adversarial Search and Games](https://courses.edx.org/co
 
 my trick:
 
-1. alpha - beta pruning
-2. feature 1 : weight_vec * val_vec
-3. feature 2 : difference between two adjacent tiles
+1. feature 1 : weight_vec * val_vec
+2. feature 2 : difference between two adjacent tiles
+3. feature 3 : weight of different position
+
 
 p.s. this trick get 1024
+
+**remark:**
+
+my GameManasger_3.py is diff from the file of raw project
+
+
+**run**
+```commandline
+python GameManager_3.py
+```
