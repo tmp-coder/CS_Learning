@@ -24,7 +24,7 @@ def perceptron(X, Y, isplot = False):
     result = []
     w = np.zeros(X.shape[1], dtype=np.int32)
     b = 0
-    print(Y)
+    # print(Y)
     while update:
         update = False
         for i in range(Y.size):
