@@ -26,7 +26,7 @@ def write_csv(data, file="output1.csv"):
 
 
 def gradient_descent(X_train, Y_train, alpha, num_of_iter=100):
-    w = np.array(X_train.shape[1])
+    w = np.zeros(X_train.shape[1])
     b = 0
     num_of_trains = X_train.shape[0]
     for i in range(num_of_iter):
