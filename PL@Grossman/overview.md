@@ -1,4 +1,6 @@
-这是 programing language part A 的一个简单回顾
+这是 UW programing language part A 的一个简单回顾
+
+[coursera 课程地址](https://www.coursera.org/learn/programming-languages): https://www.coursera.org/learn/programming-languages
 
 
 # 思考
