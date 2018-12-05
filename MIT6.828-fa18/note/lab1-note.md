@@ -53,7 +53,7 @@ f0100008:	fe 4f 52             	decb   0x52(%edi)
 f010000b:	e4                   	.byte 0xe4
 
 ```
-[ex6](./img/ex6.png)
+![ex6](./img/ex6.png)
 
 boot 之后会被 内核就被加载了，即: 在跳转到 内核之前，那一段read代码其实试讲kernel的各个段加载到 0x100000,处，至于为什么要加载在这里呢？lab中说了 **为了保证其内存有> 1M**
 
@@ -79,7 +79,7 @@ f01008ac:	e8 c9 01 00 00       	call   f0100a7a <cprintf>
 
 ```
 
-[ap&fmt](./img/fmt.png)
+![ap&fmt](./img/fmt.png)
 
 可以看到　：　fmt－＞"x %d, y %x, z %d\n"ap 指向的是栈中构造的参数１方的地方，而且如果你实实在在的跟踪并且打印栈中的数据，你会发现参数是倒着来的也就是说先压: z,y,x,fmt,这个可见 asm代码
 
@@ -87,12 +87,12 @@ f01008ac:	e8 c9 01 00 00       	call   f0100a7a <cprintf>
 
 看下面两张图，你就会发现 ap 的地址正好等于 ```x```在栈中的地址
 
-[x_addr](./img/x_addr.png)
+![x_addr](./img/x_addr.png)
 
 (**remark**)
 ap_addr = ```x``` 放在栈中的地址 
 
-[ap_addr](./img/ap_addr.png)
+![ap_addr](./img/ap_addr.png)
 
 ## 4
 
@@ -102,7 +102,7 @@ cprintf("H%x Wo%s", 57616, &i);
 ```
 57616 = 0xe110
 
-[hello wolrd!](./img/hello.png)
+![hello wolrd!](./img/hello.png)
 
 **解释** : 将　57616 转化为16base,->e110,(**这个转化与端系统没有关系，因为代码中是将整数 -> base16，即这个整数是已经被读取出来的结果了**)
 
@@ -126,7 +126,7 @@ f0100034:	bc 00 00 11 f0       	mov    $0xf0110000,%esp
 
 # ex10
 
-[ex10](./img/ex10.png)
+![ex10](./img/ex10.png)
 
 # ex11
 
@@ -231,7 +231,7 @@ mon_backtrace(int argc, char **argv, struct Trapframe *tf)
 
 # 最终成果:
 
-[win](./img/win.png)
+![win](./img/win.png)
 
 **我没有做 challenge**
 
