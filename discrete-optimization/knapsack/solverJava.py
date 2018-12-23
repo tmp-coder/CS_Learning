@@ -14,7 +14,9 @@ def solve_it(input_data):
     tmp_file.close()
 
     # Runs the command: java Solver -file=tmp.data
-    os.system("javac .\Solver.java")
+
+    os.system("javac .\Solver.java") # this line is addded by taotao
+    
     process = Popen(['java', 'Solver', '-file=' + tmp_file_name], stdout=PIPE)
     (stdout, stderr) = process.communicate()
     # removes the temporay file
