@@ -17,7 +17,7 @@ def solve_it(input_data):
 
     os.system("javac .\Solver.java") # this line is addded by taotao
     
-    process = Popen(['java', 'Solver', '-file=' + tmp_file_name], stdout=PIPE)
+    process = Popen(['java','-Xss20M','Solver', '-file=' + tmp_file_name], stdout=PIPE)
     (stdout, stderr) = process.communicate()
     # removes the temporay file
     os.remove(tmp_file_name)
