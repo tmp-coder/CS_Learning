@@ -3,4 +3,4 @@
 **相关笔记**
 
 - [decision tree](https://zouzhitao.github.io/posts/ml-decision-tree-note/)
-- [lec3-hw2solution note](/lec3/hw2solution.md)
+- [lec3-hw2solution note](./lec3/hw2solution.md)
