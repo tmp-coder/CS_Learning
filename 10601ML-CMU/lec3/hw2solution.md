@@ -13,7 +13,7 @@ $$
 
     [code](./hw2.py)
 
-    ![Ltheta](img/pb2.png)
+    ![Ltheta](./img/pb2.png)
 
 3. <br>
 
@@ -27,12 +27,12 @@ $$
 
 4. <br>
    
-   ![pb2-3.png](img/pb2-3.png)
+   ![pb2-3.png](./img/pb2-3.png)
 
 # problem 3
 
 
-![pb3-1](img/pb3-1.png)
+![pb3-1](./img/pb3-1.png)
 
 **note**:
 
