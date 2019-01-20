@@ -1,0 +1,31 @@
+
+\section*{Problem 1: Background Material [20pts] (Devendra \& Hyun-Ah)}
+
+\subsection*{1.1 Probability review (Devendra)}
+
+Consider a naive classifier which stochastically assigns labels to data points; specifically, for each label $l$, it assigns that label with probability proportional to the number of times that label appears in the training dataset. Let the size of training set be $N$, total number of classes be $C$ and $n_i$ be number of datapoints of class $i$ ($\sum_i^C{n_i} = N$), then the probability of labelling a datapoint with class $i$ is $n_i/N$.
+
+1) Consider a training set with $N=100$, $C=2$, $n_1 = 50$, $n_2=50$ and a test set with, $N=100$, $C= 2$, $n_1 = 30$, $n_2 = 70$.\\
+a) What is the expected accuracy of the classifier on the training set?\\
+b) What is the expected accuracy of the classifier on the test set?\\
+
+2) Now consider a training set with $N=100$, $C=3$, $n_1 = 50$, $n_2=20$, $n_3=30$ and a test set with, $N=100$, $C= 3$, $n_1 = 20$, $n_2 = 20$, $n_3 = 60$.\\
+a) What is the expected accuracy of the classifier on the training set?\\
+b) What is the expected accuracy of the classifier on the test set?\\
+
+This kind of analysis can be used to calculate a baseline accuracy for various Machine Learning algorithms. 
+
+\subsection* {Problem 1.2: Bayes Rule [10 pts] (Hyun-Ah) }
+
+Smith owns a retail store for selling phones. The phones are manufactured at three different factories: $A, B, C$. Factory A, B, and C produces $20\%, 30\%,$ and $50\%$ of the phone being sold at Smith's store. The probabilities of the defective phones from stores $A, B,$ and $C$ are $2\%, 1\%,$ and $0.05\%$, respectively. The total number of phones being sold at Smith's store is $10000$. 
+One day, a customer walks up to Smith's store, and ask for a refund for a defective phone.
+
+a) What is the probability of a phone being defective?
+
+b) What is the probability that this defective phone is manufactured at factory $A$?
+
+c) What is the probability that this defective phone is manufactured at factory $B$?
+
+d) What is the probability that this defective phone is manufactured at factory $C$?
+
+\newpage

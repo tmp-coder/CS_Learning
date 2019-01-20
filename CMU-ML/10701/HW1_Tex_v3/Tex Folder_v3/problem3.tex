@@ -1,0 +1,38 @@
+\section*{Problem 3: Ridge Regression [40 pts] (Hyun-Ah \& Petar)}
+
+\subsection* {3.1 MLE (Petar)}
+
+
+% \subsection*{Problem 1: MLE [10 pts]}
+
+% \textbf{NOTE: Do not submit your code for this portion of the assignment, submit the plots only.  Plots should be submitted with the rest of the assignment in Gradescope.}
+
+We are given covariates $\mathbf{X} \in \mathbb{R}^{n \times d}$ and responses $\mathbf{y} \in \mathbb{R}^{n \times 1}$, such that: 
+\begin{align}   
+        \mathbf{y} = \mathbf{X}\mathbf{\beta} + \mathbf{\epsilon} 
+\end{align} 
+where $\mathbf{\beta} \in \mathbb{R}^{{\color{red}d} \times 1}$ is a vector of predictors and $\mathbf{\epsilon}$ a vector of Gaussian noise components given by: $\epsilon_i \sim \mathcal{N}(0, \sigma^2)$. \\ \\
+a) Derive the conditional probability $p(y_i | \mathbf{x_i}, \mathbf{\beta}, {\color{red}\sigma})$, where $y_i$ is the $i$-th component of $\mathbf{y}$,  and $\mathbf{x_i}$ is the $i$-th row of $\mathbf{X}$. \\ \\ 
+b) Assume we have $n$ i.i.d samples. Derive the log-likelihood of the data $\ell(\mathbf{y} | \mathbf{\beta})$. \\ \\ 
+c) Show that maximizing the log-likelihood is equivalent to the following criterion: 
+\begin{align} 
+    \min_{\mathbf{\beta}} ||\mathbf{y} - \mathbf{X}\mathbf{\beta}||_2^2 
+\end{align}
+d) Derive the MLE $\hat{\mathbf{\beta}}$.
+
+
+We have worked through the linear regression problem. Now, we will explore linear regression problem with regularization.
+
+\subsection*{3.2 Ridge regression}
+Continued from Problem 1, we are given a matrix of $n$ training samples with $p$ dimensions, $\mathbf{X}\in \mathbb{R}^{n \times p}$, a parameter vector $\mathbf{\beta}\in\mathbb{R}^{p}$, and a output vector $\mathbf{y}\in\mathbb{R}^{n}$.
+L2 penalized linear regression problem shown below penalizes the L2 norm of the parameter vector. This is also known as the ridge regression problem.
+\begin{align*} 
+    \min_{\mathbf{\beta}} \frac{1}{2}||\mathbf{y} - \mathbf{X}\mathbf{\beta}||_2^2 + \frac{\lambda}{2} ||\mathbf{\beta}||_2^2
+\end{align*}
+
+a) Show that the solution to the ridge regression problem is $\beta^*= (\mathbf{X}^T\mathbf{X} +\lambda \mathbf{I})^{-1}\mathbf{X}^T\mathbf{y}$.
+
+b) How does the solution differ from the solution to the ordinary linear regression problem? Explain how the solution changes as $\lambda \rightarrow 0$, and $\lambda \rightarrow \infty$.
+
+\newpage
+

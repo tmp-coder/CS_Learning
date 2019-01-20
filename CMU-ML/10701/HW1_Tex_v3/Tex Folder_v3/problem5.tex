@@ -1,0 +1,28 @@
+\section*{Problem 5: Naive Bayes: Implementation [30 pts] (Siddharth)}
+
+As part of this problem, you will implement a Naive Bayes classifier for classifying movie reviews as positive or negative. The dataset that you will be using is the IMDB Large Movie Review dataset (Maas et. al, ACL 2011). The processed dataset can be found \textit{\href{https://www.dropbox.com/s/liz0o40f5mpj8ye/hw1_dataset_nb.tar.gz?dl=0}{here}}. The task is to estimate appropriate parameters using the training data, and use it to predict reviews from the test data, and classify each of them as either positive or negative.
+
+We employ the {\color{red}Multinomial Naive Bayes model for modeling each $P(X_i | Y = y_k)$ ($i = 1 .. n$), with appropriate word counts} (Note $n$ is the number of dimensions).
+
+Please use Matlab, Python, R, C/C++ or Java for your implementation. Note that you will have to submit your codes in Autolab, and provide the answers to the questions in the below subsections in your report.
+
+\subsection*{Preprocessing}
+The dataset is partitioned into 2 folders: `train' and `test', each of which contains 2 subfolders (`pos' and `neg', for positive and negative samples respectively). The content of each file has to be converted to a bag-of-words representation. So the first task is to go through all the files in the `train' folder, and construct the vocabulary $V$ of all unique words. Please ignore all the stop-words as given in the file `sw.txt' (provided along with the dataset). The words from each file (both in training and testing phase) must be extracted by splitting the raw text only with whitespace characters and {\color{red}converting them to lowercase characters}. 
+
+The next step is to get counts of each individual words for the positive and the negative classes separately, to get $P(word | class)$. 
+
+\subsection*{Classification}
+In this step, you need to go through all the negative and positive samples in the test data, and classify each sample according to the parameters learned earlier. The classification should be done by comparing the log-posterior (un-normalized), which is given by $\log(P(X|Y)P(Y))$, for both the classes.
+
+\subsection*{Laplace smoothing}
+An issue with the original Naive Bayes setup is that if a test sample contains a word which is not present in the dictionary, the $P(word|label)$ goes to $0$. To mitigate this issue, one solution is to employ Laplace smoothing (it has a parameter $\alpha$). Augment your $P(word | class)$ calculations by including the appropriate terms for doing Laplace smoothing. 
+
+Report the confusion matrix and overall accuracy of your classifier on the test dataset with $\alpha = 1$. Recall that the confusion matrix for such 2-class classification problem, is a matrix of the number of true positives (positive samples correctly classified as positive), number of true negatives (negative samples correctly classified as negative), number of false positives (negative samples incorrectly classified as positive), and number of false negatives (positive samples incorrectly classified as negative). The accuracy is the ratio of sum of true positives and true negatives, and the total number of samples (in the test dataset).
+
+Now vary the value of $\alpha$ from $0.0001$ to $1000$ (by multiplying $\alpha$ with 10 each time), and report a plot of the accuracy on the test dataset for the corresponding values of $\alpha$. (The x-axis should represent $\alpha$ values and use a $\log$ scale for the x-axis).
+
+ Why do you think the accuracy suffers when $\alpha$ is too high or too low? 
+    
+
+
+

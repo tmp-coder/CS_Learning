@@ -1,0 +1,33 @@
+\section*{Problem 4: Naive Bayes: Theory [20 pts] (Brynn)}
+
+Recall the difference in the modeling assumptions in a discriminative and a generative classifier. In a generative model, $P(X,Y)$ is estimated by initially modeling the conditional $P(X|Y)$, since, $P(X,Y) = P(Y)P(X|Y)$. The joint probability with Bayes rule is then used to calculate $P(Y|X)$ for each class label. On the other hand, a discriminative classifier directly estimates $P(Y|X)$. In this problem, we will explore the relation between Naive Bayes and logistic regression classifiers, by focusing on the class conditional $P(Y|X)$.
+
+When Y is Boolean and $X = \langle{X_{1}...X_{n}}\rangle$ is a vector of continuous variables, and each $P(X_i | Y= y_k)$ is modelled with a Gaussian distribution, then the assumptions of the Gaussian Naive Bayes classifier imply that $P(Y\mid{X})$ is given by the logistic function with
+appropriate parameters $w_0, w_1, .. w_n$. In particular:
+
+\begin{align*}
+    P(Y=1\mid{X})=\frac{1}{1+exp(w_0+\sum_{i=1}^{n} w_iX_i)}
+\end{align*}
+and
+\begin{align*}
+    P(Y=0\mid{X})=\frac{exp(w_0+\sum_{i=1}^{n} w_iX_i)}{1+exp(w_0+\sum_{i=1}^{n} w_iX_i)}
+\end{align*}
+
+\begin{enumerate}
+ 
+ 
+\item Consider instead the case where Y is Boolean and ${X = \langle{X_{1}...X_{n}}}\rangle$ is a vector of Boolean variables. Show that the derived expression of $P(Y|X)$ has the same form as that in the Logistic Regression classifier model (by getting an appropriate expression, which can be substituted for weights in the $P(Y|X)$ equation for Logistic Regression).
+
+
+\emph{Hints}
+\begin{enumerate}
+    \item Simple notation will help. Since the $X_{i}$ are Boolean variables, you need only one parameter to define $P(X_{i}\mid{Y} = y_k)$. Define $\theta_{i1} \equiv P(X_{i} = 1\mid{Y = 1})$, in which case $P(X_{i} = 0\mid{Y = 1})$ = (1-$\theta_{i1}$). Similarly, use $\theta_{i0}$ to denote $P(X_{i} = 1|Y = 0)$.
+    \item Notice with the above notation you can represent $P(Xi\mid{Y = 1})$ as follows
+\begin{align*}
+       P(X_{i}\mid{Y = 1}) = \theta_{i1}^{(X_i)}(1-\theta_{i1})^{(1-X_i)}
+\end{align*}
+    Note when $X_{i}$ = 1 the second term is equal to 1 because its exponent is zero. Similarly, when $X_{i}$ = 0 the first term is equal to 1 because its exponent is zero.
+\end{enumerate}
+\end{enumerate}
+
+\newpage

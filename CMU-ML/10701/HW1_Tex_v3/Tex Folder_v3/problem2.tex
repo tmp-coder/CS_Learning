@@ -1,0 +1,24 @@
+\section*{Problem 2: kNN [30 pts] (Hemank)}
+
+In this problem, you will implement K-Nearest Neighbor approach on a synthetic dataset and on the provided dataset\footnote{\url{http://archive.ics.uci.edu/ml/datasets/Iris}}. We will figure out how does various parameters affect the performance of K-NN.
+
+\subsection*{$k$-Nearest Neighbor}
+Implement the $k$-nn algorithm and answer the following questions. We will use Euclidean distance for our implementation. For validation, we use $N$-fold cross validation($N=10$). 
+
+\textbf{Input Data}: We will generate synthetic input data. The input data will be generated using the code provided in the folder. The code is provided in R, Matlab and Python syntax. The code takes as input the following:
+
+$n$ is the number of samples, $p$ is the dimensionality of the data and $sigma$ determines the amount of noise.
+
+\begin{enumerate}
+\item{Why is it suitable to choose odd-$k$?}
+
+\item{Generate $n=1000$ points with $p=10$ and $sigma=0.001$. For different values of $k$, ranging from 1 to 50 (in increments of 5), plot the cross-validation train-error and test-error. What can you say about the effect of $k$? What is the optimal value of $k$, which you can infer from the plot? How does performance changes when you move from smaller values of $k$ to larger values?}
+
+\item{Generate $n=400$ points with $sigma=0.001$. Vary $p$ in range of $2$ to $50$. Run $k$-NN with $k=9$. Plot the cross-validation test-error and comment about effect of dimensionality on the algorithm.}
+
+\item{Generate $n=1000$ points with $sigma=0.001$ and $p=10$. Run $k$-NN with $k=9$. Vary the $N$ for $N$-fold validation from $2$ to $10$ and plot the cross-validation test error. What do you observe from the plot?}
+
+\item{On the given iris dataset, plot with varying $K=1,3,5,7$, the $N$-fold cross-validation test-error.}
+
+\end{enumerate}
+\newpage
