@@ -10,3 +10,4 @@
 # math
 - [点到超平面的距离计算简单笔记](https://zouzhitao.github.io/posts/math-distence-to-hyperplane/)
 - [Newton's Method](https://zouzhitao.github.io/posts/newton-method/)
+- [cvx-opt note](https://zouzhitao.github.io/posts/math-convex-opt/)
