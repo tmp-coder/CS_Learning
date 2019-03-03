@@ -11,9 +11,11 @@ def cpp_runner(cpp_file_name,input_file_name):
     m = pat.match(cpp_file_name)
     # assert (m not None)
     file_name = m.group(1)
-
+    # print("enter in cpp runnner")
     os.system("g++ -std=c++11 -o3 "+cpp_file_name+" -o "+file_name)
-    process = Popen(['.\\'+file_name ,'<',input_file_name], stdout=PIPE)
-    (stdout, _) = process.communicate()
-
-    return stdout.strip().decode('utf-8')
+    cmd = " ".join(['.\\'+file_name ,'<',input_file_name])
+    r = os.popen(cmd)
+    stdout = r.read()
+    r.close()
+    # print("finished cpp runner")
+    return stdout.strip()
