@@ -1,0 +1,14 @@
+[0m[[0mdebug[0m] [0mRunning TaskDef(recfun.BalanceSuite, org.scalatest.tools.Framework$$anon$1@75061247, false, [SuiteSelector])[0m
+[0m[[0mdebug[0m] [0mRunning TaskDef(recfun.CountChangeSuite, org.scalatest.tools.Framework$$anon$1@75061247, false, [SuiteSelector])[0m
+[0m[[0mdebug[0m] [0mRunning TaskDef(recfun.PascalSuite, org.scalatest.tools.Framework$$anon$1@75061247, false, [SuiteSelector])[0m
+[0m[[0minfo[0m] [0m[36mRun completed in 1 second, 72 milliseconds.[0m[0m
+[0m[[0minfo[0m] [0m[36mTotal number of tests run: 11[0m[0m
+[0m[[0minfo[0m] [0m[36mSuites: completed 3, aborted 0[0m[0m
+[0m[[0minfo[0m] [0m[36mTests: succeeded 3, failed 8, canceled 0, ignored 0, pending 0[0m[0m
+[0m[[0minfo[0m] [0m[31m*** 8 TESTS FAILED ***[0m[0m
+[0m[[0mdebug[0m] [0mPassed tests:[0m
+[0m[[0mdebug[0m] [0m	recfun.PascalSuite[0m
+[0m[[31merror[0m] [0mFailed tests:[0m
+[0m[[31merror[0m] [0m	recfun.CountChangeSuite[0m
+[0m[[31merror[0m] [0m	recfun.BalanceSuite[0m
+[0m[[31merror[0m] [0m(test:[31mtest[0m) sbt.TestsFailedException: Tests unsuccessful[0m

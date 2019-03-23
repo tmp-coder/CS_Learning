@@ -1,0 +1,53 @@
+[0m[[0minfo[0m] [0m[32mCountChangeSuite:[0m[0m
+[0m[[0minfo[0m] [0m[31m- countChange: example given in instructions *** FAILED ***[0m[0m
+[0m[[0minfo[0m] [0m[31m  scala.NotImplementedError: an implementation is missing[0m[0m
+[0m[[0minfo[0m] [0m[31m  at scala.Predef$.$qmark$qmark$qmark(Predef.scala:230)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at recfun.Main$.countChange(Main.scala:29)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at recfun.CountChangeSuite$$anonfun$1.apply$mcV$sp(CountChangeSuite.scala:13)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at recfun.CountChangeSuite$$anonfun$1.apply(CountChangeSuite.scala:13)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at recfun.CountChangeSuite$$anonfun$1.apply(CountChangeSuite.scala:13)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.Transformer$$anonfun$apply$1.apply$mcV$sp(Transformer.scala:22)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.OutcomeOf$class.outcomeOf(OutcomeOf.scala:85)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.OutcomeOf$.outcomeOf(OutcomeOf.scala:104)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.Transformer.apply(Transformer.scala:22)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.Transformer.apply(Transformer.scala:20)[0m[0m
+[0m[[0minfo[0m] [0m[31m  ...[0m[0m
+[0m[[0minfo[0m] [0m[31m- countChange: sorted CHF *** FAILED ***[0m[0m
+[0m[[0minfo[0m] [0m[31m  scala.NotImplementedError: an implementation is missing[0m[0m
+[0m[[0minfo[0m] [0m[31m  at scala.Predef$.$qmark$qmark$qmark(Predef.scala:230)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at recfun.Main$.countChange(Main.scala:29)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at recfun.CountChangeSuite$$anonfun$2.apply$mcV$sp(CountChangeSuite.scala:17)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at recfun.CountChangeSuite$$anonfun$2.apply(CountChangeSuite.scala:17)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at recfun.CountChangeSuite$$anonfun$2.apply(CountChangeSuite.scala:17)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.Transformer$$anonfun$apply$1.apply$mcV$sp(Transformer.scala:22)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.OutcomeOf$class.outcomeOf(OutcomeOf.scala:85)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.OutcomeOf$.outcomeOf(OutcomeOf.scala:104)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.Transformer.apply(Transformer.scala:22)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.Transformer.apply(Transformer.scala:20)[0m[0m
+[0m[[0minfo[0m] [0m[31m  ...[0m[0m
+[0m[[0minfo[0m] [0m[31m- countChange: no pennies *** FAILED ***[0m[0m
+[0m[[0minfo[0m] [0m[31m  scala.NotImplementedError: an implementation is missing[0m[0m
+[0m[[0minfo[0m] [0m[31m  at scala.Predef$.$qmark$qmark$qmark(Predef.scala:230)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at recfun.Main$.countChange(Main.scala:29)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at recfun.CountChangeSuite$$anonfun$3.apply$mcV$sp(CountChangeSuite.scala:21)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at recfun.CountChangeSuite$$anonfun$3.apply(CountChangeSuite.scala:21)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at recfun.CountChangeSuite$$anonfun$3.apply(CountChangeSuite.scala:21)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.Transformer$$anonfun$apply$1.apply$mcV$sp(Transformer.scala:22)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.OutcomeOf$class.outcomeOf(OutcomeOf.scala:85)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.OutcomeOf$.outcomeOf(OutcomeOf.scala:104)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.Transformer.apply(Transformer.scala:22)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.Transformer.apply(Transformer.scala:20)[0m[0m
+[0m[[0minfo[0m] [0m[31m  ...[0m[0m
+[0m[[0minfo[0m] [0m[31m- countChange: unsorted CHF *** FAILED ***[0m[0m
+[0m[[0minfo[0m] [0m[31m  scala.NotImplementedError: an implementation is missing[0m[0m
+[0m[[0minfo[0m] [0m[31m  at scala.Predef$.$qmark$qmark$qmark(Predef.scala:230)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at recfun.Main$.countChange(Main.scala:29)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at recfun.CountChangeSuite$$anonfun$4.apply$mcV$sp(CountChangeSuite.scala:25)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at recfun.CountChangeSuite$$anonfun$4.apply(CountChangeSuite.scala:25)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at recfun.CountChangeSuite$$anonfun$4.apply(CountChangeSuite.scala:25)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.Transformer$$anonfun$apply$1.apply$mcV$sp(Transformer.scala:22)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.OutcomeOf$class.outcomeOf(OutcomeOf.scala:85)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.OutcomeOf$.outcomeOf(OutcomeOf.scala:104)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.Transformer.apply(Transformer.scala:22)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.Transformer.apply(Transformer.scala:20)[0m[0m
+[0m[[0minfo[0m] [0m[31m  ...[0m[0m

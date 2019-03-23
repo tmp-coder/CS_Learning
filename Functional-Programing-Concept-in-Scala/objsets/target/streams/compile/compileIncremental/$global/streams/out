@@ -1,0 +1,65 @@
+[0m[[0mdebug[0m] [0m[naha] [0m
+[0m[[0mdebug[0m] [0m[naha] Initial source changes: [0m
+[0m[[0mdebug[0m] [0m[naha] 	removed:Set()[0m
+[0m[[0mdebug[0m] [0m[naha] 	added: Set(C:\Users\zhou1\Desktop\scalaGYM\objsets\src\main\scala\common\package.scala, C:\Users\zhou1\Desktop\scalaGYM\objsets\src\main\scala\objsets\TweetData.scala, C:\Users\zhou1\Desktop\scalaGYM\objsets\src\main\scala\objsets\TweetReader.scala, C:\Users\zhou1\Desktop\scalaGYM\objsets\src\main\scala\objsets\TweetSet.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] 	modified: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidated products: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] External API changes: API Changes: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Modified binary dependencies: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Initial directly invalidated sources: Set(C:\Users\zhou1\Desktop\scalaGYM\objsets\src\main\scala\common\package.scala, C:\Users\zhou1\Desktop\scalaGYM\objsets\src\main\scala\objsets\TweetData.scala, C:\Users\zhou1\Desktop\scalaGYM\objsets\src\main\scala\objsets\TweetReader.scala, C:\Users\zhou1\Desktop\scalaGYM\objsets\src\main\scala\objsets\TweetSet.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] [0m
+[0m[[0mdebug[0m] [0m[naha] Sources indirectly invalidated by:[0m
+[0m[[0mdebug[0m] [0m[naha] 	product: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] 	binary dep: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] 	external source: Set()[0m
+[0m[[0mdebug[0m] [0mAll initially invalidated sources: Set(C:\Users\zhou1\Desktop\scalaGYM\objsets\src\main\scala\common\package.scala, C:\Users\zhou1\Desktop\scalaGYM\objsets\src\main\scala\objsets\TweetData.scala, C:\Users\zhou1\Desktop\scalaGYM\objsets\src\main\scala\objsets\TweetReader.scala, C:\Users\zhou1\Desktop\scalaGYM\objsets\src\main\scala\objsets\TweetSet.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(C:\Users\zhou1\Desktop\scalaGYM\objsets\src\main\scala\common\package.scala, C:\Users\zhou1\Desktop\scalaGYM\objsets\src\main\scala\objsets\TweetData.scala, C:\Users\zhou1\Desktop\scalaGYM\objsets\src\main\scala\objsets\TweetReader.scala, C:\Users\zhou1\Desktop\scalaGYM\objsets\src\main\scala\objsets\TweetSet.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Recompiling all 4 sources: invalidated sources (4) exceeded 50.0% of all sources[0m
+[0m[[0minfo[0m] [0mCompiling 4 Scala sources to C:\Users\zhou1\Desktop\scalaGYM\objsets\target\scala-2.11\classes...[0m
+[0m[[0mdebug[0m] [0mGetting org.scala-sbt:compiler-interface:0.13.17:component from component compiler for Scala 2.11.12[0m
+[0m[[0mdebug[0m] [0mGetting org.scala-sbt:compiler-interface:0.13.17:component from component compiler for Scala 2.11.12[0m
+[0m[[0mdebug[0m] [0mRunning cached compiler 201bd8dc, interfacing (CompilerInterface) with Scala compiler version 2.11.12[0m
+[0m[[0mdebug[0m] [0mCalling Scala compiler with arguments  (CompilerInterface):[0m
+[0m[[0mdebug[0m] [0m	-deprecation[0m
+[0m[[0mdebug[0m] [0m	-bootclasspath[0m
+[0m[[0mdebug[0m] [0m	C:\Program Files\Java\jdk1.8.0_144\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_144\jre\classes;C:\Users\zhou1\.coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala-library\2.11.12\scala-library-2.11.12.jar[0m
+[0m[[0mdebug[0m] [0m	-classpath[0m
+[0m[[0mdebug[0m] [0m	C:\Users\zhou1\Desktop\scalaGYM\objsets\target\scala-2.11\classes;C:\Users\zhou1\.coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala-reflect\2.11.12\scala-reflect-2.11.12.jar;C:\Users\zhou1\.coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-lang\modules\scala-parser-combinators_2.11\1.0.4\scala-parser-combinators_2.11-1.0.4.jar;C:\Users\zhou1\.coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-lang\modules\scala-xml_2.11\1.0.2\scala-xml_2.11-1.0.2.jar;C:\Users\zhou1\.coursier\cache\v1\https\repo1.maven.org\maven2\org\scalatest\scalatest_2.11\2.2.4\scalatest_2.11-2.2.4.jar[0m
+[0m[[0mdebug[0m] [0mScala compilation took 13.804203728 s[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating C:\Users\zhou1\Desktop\scalaGYM\objsets\src\main\scala\common\package.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating (transitively) by inheritance from C:\Users\zhou1\Desktop\scalaGYM\objsets\src\main\scala\common\package.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(C:\Users\zhou1\Desktop\scalaGYM\objsets\src\main\scala\common\package.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidated by transitive inheritance dependency: Set(C:\Users\zhou1\Desktop\scalaGYM\objsets\src\main\scala\common\package.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] The C:\Users\zhou1\Desktop\scalaGYM\objsets\src\main\scala\common\package.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m[naha] 	notify, package, wait, $asInstanceOf, equals, asInstanceOf, synchronized, $isInstanceOf, resourceAsStreamFromSrc, notifyAll, isInstanceOf, ???, ==, clone, subFile, toString, !=, getClass, ne, eq, ##, finalize, hashCode, ***.[0m
+[0m[[0mdebug[0m] [0m[naha] All member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating C:\Users\zhou1\Desktop\scalaGYM\objsets\src\main\scala\objsets\TweetData.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating (transitively) by inheritance from C:\Users\zhou1\Desktop\scalaGYM\objsets\src\main\scala\objsets\TweetData.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(C:\Users\zhou1\Desktop\scalaGYM\objsets\src\main\scala\objsets\TweetData.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidated by transitive inheritance dependency: Set(C:\Users\zhou1\Desktop\scalaGYM\objsets\src\main\scala\objsets\TweetData.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] The C:\Users\zhou1\Desktop\scalaGYM\objsets\src\main\scala\objsets\TweetData.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m[naha] 	notify, amazondeals, CNET, gizmodo, wait, $asInstanceOf, mashable, gadgetlab, equals, asInstanceOf, synchronized, engadget, TweetData, $isInstanceOf, notifyAll, isInstanceOf, ==, clone, toString, !=, getClass, ne, TechCrunch, eq, ##, finalize, hashCode.[0m
+[0m[[0mdebug[0m] [0m[naha] All member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0m[naha] The following modified names cause invalidation of C:\Users\zhou1\Desktop\scalaGYM\objsets\src\main\scala\objsets\TweetReader.scala: Set(amazondeals, CNET, gizmodo, mashable, gadgetlab, asInstanceOf, engadget, TweetData, toString, TechCrunch)[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating C:\Users\zhou1\Desktop\scalaGYM\objsets\src\main\scala\objsets\TweetReader.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating (transitively) by inheritance from C:\Users\zhou1\Desktop\scalaGYM\objsets\src\main\scala\objsets\TweetReader.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(C:\Users\zhou1\Desktop\scalaGYM\objsets\src\main\scala\objsets\TweetReader.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidated by transitive inheritance dependency: Set(C:\Users\zhou1\Desktop\scalaGYM\objsets\src\main\scala\objsets\TweetReader.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] The C:\Users\zhou1\Desktop\scalaGYM\objsets\src\main\scala\objsets\TweetReader.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m[naha] 	notify, wait, TweetReader, $asInstanceOf, ParseTweets, equals, asInstanceOf, synchronized, getTweets, tweetMap, $isInstanceOf, getMap, notifyAll, isInstanceOf, allTweets, getTweetData, toTweetSet, ==, clone, getList, toString, !=, getClass, sites, unparseToData, ne, tweetSets, eq, ##, finalize, hashCode.[0m
+[0m[[0mdebug[0m] [0m[naha] All member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0m[naha] The following modified names cause invalidation of C:\Users\zhou1\Desktop\scalaGYM\objsets\src\main\scala\objsets\TweetSet.scala: Set(TweetReader, allTweets)[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating C:\Users\zhou1\Desktop\scalaGYM\objsets\src\main\scala\objsets\TweetSet.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating (transitively) by inheritance from C:\Users\zhou1\Desktop\scalaGYM\objsets\src\main\scala\objsets\TweetSet.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(C:\Users\zhou1\Desktop\scalaGYM\objsets\src\main\scala\objsets\TweetSet.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidated by transitive inheritance dependency: Set(C:\Users\zhou1\Desktop\scalaGYM\objsets\src\main\scala\objsets\TweetSet.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] The C:\Users\zhou1\Desktop\scalaGYM\objsets\src\main\scala\objsets\TweetSet.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m[naha] 	notify, descendingByRetweet, GoogleVsApple, Nil, wait, $asInstanceOf, union, equals, filterAcc, head, asInstanceOf, executionStart, incl, synchronized, $isInstanceOf, TweetList, google, text, mostRetweeted, tail, main, retweets, Cons, notifyAll, isInstanceOf, filter, <init>, remove, Empty, ==, clone, foreach, Tweet, $init$, TweetSet, Main, toString, args, apple, !=, getClass, googleTweets, contains, isEmpty, ne, trending, user, eq, NonEmpty, delayedInit, ##, appleTweets, finalize, hashCode.[0m
+[0m[[0mdebug[0m] [0m[naha] All member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0m[naha] The following modified names cause invalidation of C:\Users\zhou1\Desktop\scalaGYM\objsets\src\main\scala\objsets\TweetReader.scala: Set(union, head, asInstanceOf, incl, text, tail, retweets, <init>, Empty, foreach, Tweet, TweetSet, toString, isEmpty, user)[0m
+[0m[[0mdebug[0m] [0m[naha] New invalidations:[0m
+[0m[[0mdebug[0m] [0m[naha] 	Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Previously invalidated, but (transitively) depend on new invalidations:[0m
+[0m[[0mdebug[0m] [0m[naha] 	Set()[0m
+[0m[[0mdebug[0m] [0m[naha] All newly invalidated sources after taking into account (previously) recompiled sources:Set()[0m

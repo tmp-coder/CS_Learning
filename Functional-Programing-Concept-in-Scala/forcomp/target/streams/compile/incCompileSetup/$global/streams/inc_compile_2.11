@@ -1,0 +1,352 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> C:\Users\zhou1\Desktop\scalaGYM\forcomp\target\scala-2.11\classes
+compile options:
+1 items
+0 -> -deprecation
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.12
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+23 items
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\common\package.scala -> C:\Users\zhou1\Desktop\scalaGYM\forcomp\target\scala-2.11\classes\common\package$$anonfun$subFile$1.class
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\common\package.scala -> C:\Users\zhou1\Desktop\scalaGYM\forcomp\target\scala-2.11\classes\common\package$.class
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\common\package.scala -> C:\Users\zhou1\Desktop\scalaGYM\forcomp\target\scala-2.11\classes\common\package.class
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\forcomp\Anagrams.scala -> C:\Users\zhou1\Desktop\scalaGYM\forcomp\target\scala-2.11\classes\forcomp\Anagrams$$anonfun$combinations$1$$anonfun$apply$1$$anonfun$apply$2.class
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\forcomp\Anagrams.scala -> C:\Users\zhou1\Desktop\scalaGYM\forcomp\target\scala-2.11\classes\forcomp\Anagrams$$anonfun$combinations$1$$anonfun$apply$1.class
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\forcomp\Anagrams.scala -> C:\Users\zhou1\Desktop\scalaGYM\forcomp\target\scala-2.11\classes\forcomp\Anagrams$$anonfun$combinations$1.class
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\forcomp\Anagrams.scala -> C:\Users\zhou1\Desktop\scalaGYM\forcomp\target\scala-2.11\classes\forcomp\Anagrams$$anonfun$dictionaryByOccurrences$1.class
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\forcomp\Anagrams.scala -> C:\Users\zhou1\Desktop\scalaGYM\forcomp\target\scala-2.11\classes\forcomp\Anagrams$$anonfun$sentenceAnagramsInner$1.class
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\forcomp\Anagrams.scala -> C:\Users\zhou1\Desktop\scalaGYM\forcomp\target\scala-2.11\classes\forcomp\Anagrams$$anonfun$sentenceAnagramsInner$2$$anonfun$apply$3$$anonfun$apply$4.class
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\forcomp\Anagrams.scala -> C:\Users\zhou1\Desktop\scalaGYM\forcomp\target\scala-2.11\classes\forcomp\Anagrams$$anonfun$sentenceAnagramsInner$2$$anonfun$apply$3.class
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\forcomp\Anagrams.scala -> C:\Users\zhou1\Desktop\scalaGYM\forcomp\target\scala-2.11\classes\forcomp\Anagrams$$anonfun$sentenceAnagramsInner$2.class
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\forcomp\Anagrams.scala -> C:\Users\zhou1\Desktop\scalaGYM\forcomp\target\scala-2.11\classes\forcomp\Anagrams$$anonfun$sentenceOccurrences$1.class
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\forcomp\Anagrams.scala -> C:\Users\zhou1\Desktop\scalaGYM\forcomp\target\scala-2.11\classes\forcomp\Anagrams$$anonfun$subtract$1$$anonfun$1.class
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\forcomp\Anagrams.scala -> C:\Users\zhou1\Desktop\scalaGYM\forcomp\target\scala-2.11\classes\forcomp\Anagrams$$anonfun$subtract$1.class
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\forcomp\Anagrams.scala -> C:\Users\zhou1\Desktop\scalaGYM\forcomp\target\scala-2.11\classes\forcomp\Anagrams$$anonfun$subtract$2.class
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\forcomp\Anagrams.scala -> C:\Users\zhou1\Desktop\scalaGYM\forcomp\target\scala-2.11\classes\forcomp\Anagrams$$anonfun$wordOccurrences$1.class
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\forcomp\Anagrams.scala -> C:\Users\zhou1\Desktop\scalaGYM\forcomp\target\scala-2.11\classes\forcomp\Anagrams$$anonfun$wordOccurrences$2.class
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\forcomp\Anagrams.scala -> C:\Users\zhou1\Desktop\scalaGYM\forcomp\target\scala-2.11\classes\forcomp\Anagrams$.class
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\forcomp\Anagrams.scala -> C:\Users\zhou1\Desktop\scalaGYM\forcomp\target\scala-2.11\classes\forcomp\Anagrams.class
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\forcomp\package.scala -> C:\Users\zhou1\Desktop\scalaGYM\forcomp\target\scala-2.11\classes\forcomp\package$$anonfun$1.class
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\forcomp\package.scala -> C:\Users\zhou1\Desktop\scalaGYM\forcomp\target\scala-2.11\classes\forcomp\package$$anonfun$2.class
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\forcomp\package.scala -> C:\Users\zhou1\Desktop\scalaGYM\forcomp\target\scala-2.11\classes\forcomp\package$.class
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\forcomp\package.scala -> C:\Users\zhou1\Desktop\scalaGYM\forcomp\target\scala-2.11\classes\forcomp\package.class
+binary dependencies:
+6 items
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\common\package.scala -> C:\Program Files\Java\jdk1.8.0_144\jre\lib\rt.jar
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\common\package.scala -> C:\Users\zhou1\.coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala-library\2.11.12\scala-library-2.11.12.jar
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\forcomp\Anagrams.scala -> C:\Program Files\Java\jdk1.8.0_144\jre\lib\rt.jar
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\forcomp\Anagrams.scala -> C:\Users\zhou1\.coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala-library\2.11.12\scala-library-2.11.12.jar
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\forcomp\package.scala -> C:\Program Files\Java\jdk1.8.0_144\jre\lib\rt.jar
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\forcomp\package.scala -> C:\Users\zhou1\.coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala-library\2.11.12\scala-library-2.11.12.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+2 items
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\forcomp\Anagrams.scala -> C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\forcomp\package.scala
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\forcomp\package.scala -> C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\common\package.scala
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+23 items
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\common\package.scala -> common.package
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\common\package.scala -> common.package$
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\common\package.scala -> common.package$$anonfun$subFile$1
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\forcomp\Anagrams.scala -> forcomp.Anagrams
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\forcomp\Anagrams.scala -> forcomp.Anagrams$
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\forcomp\Anagrams.scala -> forcomp.Anagrams$$anonfun$combinations$1
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\forcomp\Anagrams.scala -> forcomp.Anagrams$$anonfun$combinations$1$$anonfun$apply$1
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\forcomp\Anagrams.scala -> forcomp.Anagrams$$anonfun$combinations$1$$anonfun$apply$1$$anonfun$apply$2
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\forcomp\Anagrams.scala -> forcomp.Anagrams$$anonfun$dictionaryByOccurrences$1
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\forcomp\Anagrams.scala -> forcomp.Anagrams$$anonfun$sentenceAnagramsInner$1
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\forcomp\Anagrams.scala -> forcomp.Anagrams$$anonfun$sentenceAnagramsInner$2
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\forcomp\Anagrams.scala -> forcomp.Anagrams$$anonfun$sentenceAnagramsInner$2$$anonfun$apply$3
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\forcomp\Anagrams.scala -> forcomp.Anagrams$$anonfun$sentenceAnagramsInner$2$$anonfun$apply$3$$anonfun$apply$4
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\forcomp\Anagrams.scala -> forcomp.Anagrams$$anonfun$sentenceOccurrences$1
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\forcomp\Anagrams.scala -> forcomp.Anagrams$$anonfun$subtract$1
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\forcomp\Anagrams.scala -> forcomp.Anagrams$$anonfun$subtract$1$$anonfun$1
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\forcomp\Anagrams.scala -> forcomp.Anagrams$$anonfun$subtract$2
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\forcomp\Anagrams.scala -> forcomp.Anagrams$$anonfun$wordOccurrences$1
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\forcomp\Anagrams.scala -> forcomp.Anagrams$$anonfun$wordOccurrences$2
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\forcomp\package.scala -> forcomp.package
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\forcomp\package.scala -> forcomp.package$
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\forcomp\package.scala -> forcomp.package$$anonfun$1
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\forcomp\package.scala -> forcomp.package$$anonfun$2
+used names:
+194 items
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\common\package.scala -> ::
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\common\package.scala -> <init>
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\common\package.scala -> <repeated>
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\common\package.scala -> ?0
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\common\package.scala -> A
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\common\package.scala -> Any
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\common\package.scala -> AnyRef
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\common\package.scala -> B
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\common\package.scala -> Boolean
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\common\package.scala -> Class
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\common\package.scala -> File
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\common\package.scala -> FileInputStream
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\common\package.scala -> Function2
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\common\package.scala -> InputStream
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\common\package.scala -> List
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\common\package.scala -> None
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\common\package.scala -> Nothing
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\common\package.scala -> Object
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\common\package.scala -> Option
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\common\package.scala -> Predef
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\common\package.scala -> Some
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\common\package.scala -> String
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\common\package.scala -> URI
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\common\package.scala -> URL
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\common\package.scala -> _root_
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\common\package.scala -> child
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\common\package.scala -> children
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\common\package.scala -> classesDir
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\common\package.scala -> common
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\common\package.scala -> exists
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\common\package.scala -> file
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\common\package.scala -> foldLeft
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\common\package.scala -> getClass
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\common\package.scala -> getParentFile
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\common\package.scala -> getResource
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\common\package.scala -> io
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\common\package.scala -> java
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\common\package.scala -> package
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\common\package.scala -> projectDir
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\common\package.scala -> resourceFile
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\common\package.scala -> resourcePath
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\common\package.scala -> scala
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\common\package.scala -> subFile
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\common\package.scala -> toURI
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\forcomp\Anagrams.scala -> !=
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\forcomp\Anagrams.scala -> -
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\forcomp\Anagrams.scala -> ::
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\forcomp\Anagrams.scala -> :::
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\forcomp\Anagrams.scala -> <init>
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\forcomp\Anagrams.scala -> <repeated>
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\forcomp\Anagrams.scala -> ==
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\forcomp\Anagrams.scala -> A
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\forcomp\Anagrams.scala -> Anagrams
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\forcomp\Anagrams.scala -> Any
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\forcomp\Anagrams.scala -> AnyRef
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\forcomp\Anagrams.scala -> B
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\forcomp\Anagrams.scala -> Boolean
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\forcomp\Anagrams.scala -> C
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\forcomp\Anagrams.scala -> CanBuildFrom
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\forcomp\Anagrams.scala -> Char
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\forcomp\Anagrams.scala -> Coll
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\forcomp\Anagrams.scala -> FilterMonadic
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\forcomp\Anagrams.scala -> Function1
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\forcomp\Anagrams.scala -> Function2
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\forcomp\Anagrams.scala -> GenTraversableOnce
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\forcomp\Anagrams.scala -> Inclusive
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\forcomp\Anagrams.scala -> IndexedSeq
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\forcomp\Anagrams.scala -> Int
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\forcomp\Anagrams.scala -> K
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\forcomp\Anagrams.scala -> List
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\forcomp\Anagrams.scala -> Map
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\forcomp\Anagrams.scala -> MatchError
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\forcomp\Anagrams.scala -> Nil
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\forcomp\Anagrams.scala -> None
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\forcomp\Anagrams.scala -> Nothing
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\forcomp\Anagrams.scala -> Object
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\forcomp\Anagrams.scala -> Occurrences
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\forcomp\Anagrams.scala -> Option
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\forcomp\Anagrams.scala -> Ordering
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\forcomp\Anagrams.scala -> Predef
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\forcomp\Anagrams.scala -> Range
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\forcomp\Anagrams.scala -> RichInt
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\forcomp\Anagrams.scala -> Sentence
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\forcomp\Anagrams.scala -> Set
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\forcomp\Anagrams.scala -> Some
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\forcomp\Anagrams.scala -> String
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\forcomp\Anagrams.scala -> StringOps
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\forcomp\Anagrams.scala -> T0
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\forcomp\Anagrams.scala -> T1
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\forcomp\Anagrams.scala -> T2
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\forcomp\Anagrams.scala -> That
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\forcomp\Anagrams.scala -> Tuple2
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\forcomp\Anagrams.scala -> Word
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\forcomp\Anagrams.scala -> _1
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\forcomp\Anagrams.scala -> _2
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\forcomp\Anagrams.scala -> a
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\forcomp\Anagrams.scala -> apply
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\forcomp\Anagrams.scala -> asInstanceOf
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\forcomp\Anagrams.scala -> augmentString
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\forcomp\Anagrams.scala -> b
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\forcomp\Anagrams.scala -> canBuildFrom
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\forcomp\Anagrams.scala -> combinations
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\forcomp\Anagrams.scala -> combs
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\forcomp\Anagrams.scala -> dictionary
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\forcomp\Anagrams.scala -> dictionaryByOccurrences
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\forcomp\Anagrams.scala -> filter
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\forcomp\Anagrams.scala -> find
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\forcomp\Anagrams.scala -> flatMap
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\forcomp\Anagrams.scala -> flatten
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\forcomp\Anagrams.scala -> foldRight
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\forcomp\Anagrams.scala -> forcomp
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\forcomp\Anagrams.scala -> groupBy
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\forcomp\Anagrams.scala -> i
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\forcomp\Anagrams.scala -> immutable
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\forcomp\Anagrams.scala -> intWrapper
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\forcomp\Anagrams.scala -> isEmpty
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\forcomp\Anagrams.scala -> isInstanceOf
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\forcomp\Anagrams.scala -> j
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\forcomp\Anagrams.scala -> keySet
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\forcomp\Anagrams.scala -> length
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\forcomp\Anagrams.scala -> loadDictionary
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\forcomp\Anagrams.scala -> map
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\forcomp\Anagrams.scala -> mapValues
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\forcomp\Anagrams.scala -> math
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\forcomp\Anagrams.scala -> mkString
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\forcomp\Anagrams.scala -> ne
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\forcomp\Anagrams.scala -> o
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\forcomp\Anagrams.scala -> occurrences
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\forcomp\Anagrams.scala -> package
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\forcomp\Anagrams.scala -> ret
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\forcomp\Anagrams.scala -> s
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\forcomp\Anagrams.scala -> scala
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\forcomp\Anagrams.scala -> sentence
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\forcomp\Anagrams.scala -> sentenceAnagramsInner
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\forcomp\Anagrams.scala -> sentenceOccurrences
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\forcomp\Anagrams.scala -> sorted
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\forcomp\Anagrams.scala -> subtract
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\forcomp\Anagrams.scala -> to
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\forcomp\Anagrams.scala -> toList
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\forcomp\Anagrams.scala -> toLowerCase
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\forcomp\Anagrams.scala -> w
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\forcomp\Anagrams.scala -> withFilter
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\forcomp\Anagrams.scala -> word
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\forcomp\Anagrams.scala -> wordOccurrences
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\forcomp\Anagrams.scala -> x
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\forcomp\Anagrams.scala -> y
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\forcomp\package.scala -> +
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\forcomp\package.scala -> <byname>
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\forcomp\package.scala -> <init>
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\forcomp\package.scala -> <repeated>
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\forcomp\package.scala -> ?0
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\forcomp\package.scala -> A
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\forcomp\package.scala -> Any
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\forcomp\package.scala -> AnyRef
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\forcomp\package.scala -> B
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\forcomp\package.scala -> BufferedSource
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\forcomp\package.scala -> Class
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\forcomp\package.scala -> Codec
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\forcomp\package.scala -> Exception
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\forcomp\package.scala -> InputStream
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\forcomp\package.scala -> Iterator
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\forcomp\package.scala -> List
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\forcomp\package.scala -> Nothing
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\forcomp\package.scala -> Object
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\forcomp\package.scala -> Option
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\forcomp\package.scala -> Predef
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\forcomp\package.scala -> Source
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\forcomp\package.scala -> String
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\forcomp\package.scala -> Unit
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\forcomp\package.scala -> apply
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\forcomp\package.scala -> close
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\forcomp\package.scala -> common
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\forcomp\package.scala -> dictionaryPath
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\forcomp\package.scala -> e
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\forcomp\package.scala -> error
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\forcomp\package.scala -> fallbackSystemCodec
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\forcomp\package.scala -> forcomp
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\forcomp\package.scala -> fromInputStream
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\forcomp\package.scala -> getClass
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\forcomp\package.scala -> getLines
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\forcomp\package.scala -> getOrElse
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\forcomp\package.scala -> getResourceAsStream
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\forcomp\package.scala -> immutable
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\forcomp\package.scala -> io
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\forcomp\package.scala -> mkString
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\forcomp\package.scala -> orElse
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\forcomp\package.scala -> package
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\forcomp\package.scala -> println
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\forcomp\package.scala -> resourceAsStreamFromSrc
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\forcomp\package.scala -> s
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\forcomp\package.scala -> scala
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\forcomp\package.scala -> sys
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\forcomp\package.scala -> toList
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\forcomp\package.scala -> wordstream
+product stamps:
+23 items
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\target\scala-2.11\classes\common\package$$anonfun$subFile$1.class -> lastModified(1553331907129)
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\target\scala-2.11\classes\common\package$.class -> lastModified(1553331907106)
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\target\scala-2.11\classes\common\package.class -> lastModified(1553331906923)
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\target\scala-2.11\classes\forcomp\Anagrams$$anonfun$combinations$1$$anonfun$apply$1$$anonfun$apply$2.class -> lastModified(1553331907252)
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\target\scala-2.11\classes\forcomp\Anagrams$$anonfun$combinations$1$$anonfun$apply$1.class -> lastModified(1553331907229)
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\target\scala-2.11\classes\forcomp\Anagrams$$anonfun$combinations$1.class -> lastModified(1553331907218)
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\target\scala-2.11\classes\forcomp\Anagrams$$anonfun$dictionaryByOccurrences$1.class -> lastModified(1553331907270)
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\target\scala-2.11\classes\forcomp\Anagrams$$anonfun$sentenceAnagramsInner$1.class -> lastModified(1553331907276)
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\target\scala-2.11\classes\forcomp\Anagrams$$anonfun$sentenceAnagramsInner$2$$anonfun$apply$3$$anonfun$apply$4.class -> lastModified(1553331907304)
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\target\scala-2.11\classes\forcomp\Anagrams$$anonfun$sentenceAnagramsInner$2$$anonfun$apply$3.class -> lastModified(1553331907294)
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\target\scala-2.11\classes\forcomp\Anagrams$$anonfun$sentenceAnagramsInner$2.class -> lastModified(1553331907286)
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\target\scala-2.11\classes\forcomp\Anagrams$$anonfun$sentenceOccurrences$1.class -> lastModified(1553331907312)
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\target\scala-2.11\classes\forcomp\Anagrams$$anonfun$subtract$1$$anonfun$1.class -> lastModified(1553331907328)
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\target\scala-2.11\classes\forcomp\Anagrams$$anonfun$subtract$1.class -> lastModified(1553331907321)
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\target\scala-2.11\classes\forcomp\Anagrams$$anonfun$subtract$2.class -> lastModified(1553331907335)
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\target\scala-2.11\classes\forcomp\Anagrams$$anonfun$wordOccurrences$1.class -> lastModified(1553331907342)
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\target\scala-2.11\classes\forcomp\Anagrams$$anonfun$wordOccurrences$2.class -> lastModified(1553331907349)
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\target\scala-2.11\classes\forcomp\Anagrams$.class -> lastModified(1553331907200)
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\target\scala-2.11\classes\forcomp\Anagrams.class -> lastModified(1553331907142)
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\target\scala-2.11\classes\forcomp\package$$anonfun$1.class -> lastModified(1553331907373)
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\target\scala-2.11\classes\forcomp\package$$anonfun$2.class -> lastModified(1553331907380)
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\target\scala-2.11\classes\forcomp\package$.class -> lastModified(1553331907368)
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\target\scala-2.11\classes\forcomp\package.class -> lastModified(1553331907353)
+source stamps:
+3 items
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\common\package.scala -> hash(885b8f12a5b2a83dad658f76cc1fdd678a38d4a8)
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\forcomp\Anagrams.scala -> hash(bddb041e335457af73d72ca3fc4b1122940fbd1f)
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\forcomp\package.scala -> hash(77c0a618470b8baef7ad6c4ec5791b3e05901b88)
+binary stamps:
+2 items
+C:\Program Files\Java\jdk1.8.0_144\jre\lib\rt.jar -> lastModified(1505361358622)
+C:\Users\zhou1\.coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala-library\2.11.12\scala-library-2.11.12.jar -> lastModified(1509673049000)
+class names:
+2 items
+C:\Program Files\Java\jdk1.8.0_144\jre\lib\rt.jar -> java.lang.Object
+C:\Users\zhou1\.coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala-library\2.11.12\scala-library-2.11.12.jar -> scala.io.Codec$
+internal apis:
+3 items
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\common\package.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwB2GhlgABc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAYc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwyb4xfHQABm5vdGlmeXNxAH4ADLd7app0AAdwYWNrYWdlc3EAfgAMJhK6tnQABHdhaXRzcQB+AAzx5+qMdAANJGFzSW5zdGFuY2VPZnNxAH4ADM2K/A90AAZlcXVhbHNzcQB+AAzxbFRpdAAMYXNJbnN0YW5jZU9mc3EAfgAMzsiFSnQADHN5bmNocm9uaXplZHNxAH4ADFjDlPV0AA0kaXNJbnN0YW5jZU9mc3EAfgAMqj2IS3QAF3Jlc291cmNlQXNTdHJlYW1Gcm9tU3Jjc3EAfgAMg3y8U3QACW5vdGlmeUFsbHNxAH4ADCYkqcp0AAxpc0luc3RhbmNlT2ZzcQB+AAxpxNpvdAADPz8/c3EAfgAMmnpgkXQAAj09c3EAfgAM8o3wU3QABWNsb25lc3EAfgAMZ0zWI3QAB3N1YkZpbGVzcQB+AAwkK+HodAAIdG9TdHJpbmdzcQB+AAw/usRqdAACIT1zcQB+AAwIl7qqdAAIZ2V0Q2xhc3NzcQB+AAwIKkOTdAACbmVzcQB+AAwadAmLdAACZXFzcQB+AAyTEjXPdAACIyNzcQB+AAyNdORTdAAIZmluYWxpemVzcQB+AAxU1D+IdAAIaGFzaENvZGVzcQB+AAx7bUT0dAADKioqc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AR3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHQADmNvbW1vbi5wYWNrYWdldXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBfc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AEdMAAlpbmhlcml0ZWRxAH4AR0wAB3BhcmVudHNxAH4AR3hxAH4AZHNxAH4AX3VxAH4AQgAAAABzcQB+AF91cQB+AEIAAAAAc3EAfgBfdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAJzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBjdAAGT2JqZWN0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBjc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARqYXZhc3EAfgB8dAAEbGFuZ3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgB9c3EAfgBwdAADQW55c3EAfgB0c3EAfgB3dXEAfgB6AAAAAnNxAH4AfHQABXNjYWxhcQB+AIN1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AAZjb21tb25zcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAWmpy7P9dXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAQUM6XFVzZXJzXHpob3UxXERlc2t0b3Bcc2NhbGFHWU1cZm9yY29tcFx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUiFuPEqWyqD2tZY92zB/dZ4o41Kg=
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\forcomp\Anagrams.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwWlf4sQAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAgc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwm8f77HQABm5vdGlmeXNxAH4ADF51NMh0ABVzZW50ZW5jZUFuYWdyYW1zSW5uZXJzcQB+AAzYlMRSdAAEd2FpdHNxAH4ADIbe1DN0AA0kYXNJbnN0YW5jZU9mc3EAfgAMGGzzTXQACHN1YnRyYWN0c3EAfgAMueeH+HQABmVxdWFsc3NxAH4ADBCoktB0AApkaWN0aW9uYXJ5c3EAfgAM5i8oMnQADGFzSW5zdGFuY2VPZnNxAH4ADCT2FrJ0AA93b3JkT2NjdXJyZW5jZXNzcQB+AAzKvpIHdAAMc3luY2hyb25pemVkc3EAfgAM9k8Eu3QADSRpc0luc3RhbmNlT2ZzcQB+AAzhUvK0dAAQc2VudGVuY2VBbmFncmFtc3NxAH4ADJNIDfN0AAx3b3JkQW5hZ3JhbXNzcQB+AAzhdfwjdAAJbm90aWZ5QWxsc3EAfgAML25Iw3QADGlzSW5zdGFuY2VPZnNxAH4ADJ9dmDR0AAxjb21iaW5hdGlvbnNzcQB+AAyN9B83dAALT2NjdXJyZW5jZXNzcQB+AAyq3clCdAACPT1zcQB+AAx3rWbsdAAFY2xvbmVzcQB+AAwtxs3RdAAXZGljdGlvbmFyeUJ5T2NjdXJyZW5jZXNzcQB+AAxtfol0dAAIdG9TdHJpbmdzcQB+AAy5p3ApdAACIT1zcQB+AAzsOgaldAATc2VudGVuY2VPY2N1cnJlbmNlc3NxAH4ADCVxmI50AAhnZXRDbGFzc3NxAH4ADKooxxF0AAJuZXNxAH4ADA7k7ah0AAhBbmFncmFtc3NxAH4ADDsqQNB0AAJlcXNxAH4ADAJgJ9Z0AAhTZW50ZW5jZXNxAH4ADPu4wM90AARXb3Jkc3EAfgAMZKj+jnQAAiMjc3EAfgAMcJSic3QACGZpbmFsaXplc3EAfgAM722ZpXQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AV3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHQAEGZvcmNvbXAuQW5hZ3JhbXN1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AG9zcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AV0wACWluaGVyaXRlZHEAfgBXTAAHcGFyZW50c3EAfgBXeHEAfgB0c3EAfgBvdXEAfgBSAAAAAHNxAH4Ab3VxAH4AUgAAAABzcQB+AG91cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AHN0AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AHNzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+AIx0AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AI1zcQB+AIB0AANBbnlzcQB+AIRzcQB+AId1cQB+AIoAAAACc3EAfgCMdAAFc2NhbGFxAH4Ak3VyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQAB2ZvcmNvbXBzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAWmpy7P9dXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAQUM6XFVzZXJzXHpob3UxXERlc2t0b3Bcc2NhbGFHWU1cZm9yY29tcFx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUvdsEHjNUV69z1yyj/EsRIpQPvR8=
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\forcomp\package.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwr29SrwABc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAWc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hw1vPSlnQABm5vdGlmeXNxAH4ADKof6dt0AAdwYWNrYWdlc3EAfgAMCX53LHQABHdhaXRzcQB+AAwtz9itdAANJGFzSW5zdGFuY2VPZnNxAH4ADJnhQw10AAZlcXVhbHNzcQB+AAy07NYqdAAMYXNJbnN0YW5jZU9mc3EAfgAMDhnxjnQADHN5bmNocm9uaXplZHNxAH4ADDkwLj90AA0kaXNJbnN0YW5jZU9mc3EAfgAMzxk3nnQACW5vdGlmeUFsbHNxAH4ADEXbkS10AAxpc0luc3RhbmNlT2ZzcQB+AAyoNYyYdAAObG9hZERpY3Rpb25hcnlzcQB+AAxpHALmdAACPT1zcQB+AAx45NzidAAFY2xvbmVzcQB+AAx7CuWGdAAIdG9TdHJpbmdzcQB+AAwYEJOedAACIT1zcQB+AAzL7+T+dAAIZ2V0Q2xhc3NzcQB+AAxCp2+9dAACbmVzcQB+AAz48sczdAAOZGljdGlvbmFyeVBhdGhzcQB+AAzPlneHdAACZXFzcQB+AAxJx/PkdAACIyNzcQB+AAxQn5IwdAAIZmluYWxpemVzcQB+AAwl3sP5dAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBDeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAdAAPZm9yY29tcC5wYWNrYWdldXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBbc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AENMAAlpbmhlcml0ZWRxAH4AQ0wAB3BhcmVudHNxAH4AQ3hxAH4AYHNxAH4AW3VxAH4APgAAAABzcQB+AFt1cQB+AD4AAAAAc3EAfgBbdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAJzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBfdAAGT2JqZWN0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBfc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARqYXZhc3EAfgB4dAAEbGFuZ3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgB5c3EAfgBsdAADQW55c3EAfgBwc3EAfgBzdXEAfgB2AAAAAnNxAH4AeHQABXNjYWxhcQB+AH91cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AAdmb3Jjb21wc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFpqcuz/XVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AEFDOlxVc2Vyc1x6aG91MVxEZXNrdG9wXHNjYWxhR1lNXGZvcmNvbXBcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFHfAphhHC4uu961sTsV5Gz4FkBuI
+external apis:
+0 items
+source infos:
+3 items
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\common\package.scala -> 
+AAAAAAAAAAA=
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\forcomp\Anagrams.scala -> 
+AAAAAAAAAAA=
+C:\Users\zhou1\Desktop\scalaGYM\forcomp\src\main\scala\forcomp\package.scala -> 
+AAAAAAAAAAA=
+compilations:
+1 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABaanLs/11cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQUM6XFVzZXJzXHpob3UxXERlc2t0b3Bcc2NhbGFHWU1cZm9yY29tcFx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
